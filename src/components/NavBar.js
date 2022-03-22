@@ -47,7 +47,7 @@ function NavBar() {
                   : "navbarListName"
               }
             >
-              Offer
+              Offers
             </p>
           </li>
           <li className="navbarListItem" onClick={() => navigate("/profile")}>
